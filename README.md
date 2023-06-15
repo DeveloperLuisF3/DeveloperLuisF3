@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on Google.
 - 💬 Ask me about developerluisf3@outlook.com
-- 📫 How to reach me:
+- 📫 How to reach me: 👇
 
 **►** 🌐 **My social networks:**
 
