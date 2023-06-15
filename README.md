@@ -8,13 +8,13 @@
 - 💬 Ask me about developerluisf3@outlook.com
 - 📫 How to reach me:
 
-**►** 🌐 **Mis redes sociales:**
+**►** 🌐 **My social networks:**
 
 - ✔️ 👀 👉 [Facebook](https://www.facebook.com/Developer-LuisF3-231261368847638 "Facebook")
 - ✔️ 👀 👉 [Instagram](https://www.instagram.com/developer_luisf3/?hl=es "Instagram")
 - ✔️ 👀 👉 [YouTube](https://www.youtube.com/channel/UCUe93GaLtWWz_c2vbhlFP9A "YouTube")
 - ✔️ 👀 👉 [CodeSandbox](https://codesandbox.io/u/DeveloperLuisF3 "CodeSandbox")
-- ✔️ 👀 👉 [Git/Hub](https://github.com/DeveloperLuisF3?tab=repositories "Git/Hub")
+- ✔️ 👀 👉 [GitHub](https://github.com/DeveloperLuisF3?tab=repositories "Git/Hub")
 
 <!--
 **DeveloperLuisF3/developerluisf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
