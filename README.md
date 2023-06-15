@@ -6,7 +6,7 @@
             margin-right: auto;
             width: 100%">
 
-|                    Profile                    |                              **►** 🌐 **My social networks:**                               |
+|                  ✨Profile✨                  |                              **►** 🌐 **My social networks:**                               |
 | :-------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 |     - 🔭 I’m currently working on Agfer.      | - ✔️ 👀 👉 [Facebook](https://www.facebook.com/Developer-LuisF3-231261368847638 "Facebook") |
 |    - 🌱 I’m currently learning JavaScript.    |    - ✔️ 👀 👉 [Instagram](https://www.instagram.com/developer_luisf3/?hl=es "Instagram")    |
